@@ -1,0 +1,21 @@
+.contenedorConfirm {
+  width: 50%;
+  height: auto;
+  background-color: rgba(128, 128, 128, 0.541);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  padding: 5px;
+  background-color: orangered;
+  color: white;
+  border: none;
+  width: 40px;
+  border-radius: 8px;
+}
+.btn:hover {
+  background-color: orange;
+  cursor: pointer;
+  text-shadow: 3px 3px 5px black;
+}
